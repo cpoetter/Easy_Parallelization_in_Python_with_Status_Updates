@@ -1,0 +1,2 @@
+# Easy_Parallelization_in_Python_with_Status_Updates
+Python is combination with packages like numpy or scipy is a very powerfull language. I use it very often to make calculations on large datasets. While doing so I developed my own parallisation class which tries to share the workload equally over all CPUs. While doing so it prints the current state of the calculation in percent. This small iPython Notebook should demonstrate my Python Parallelization Class.
